@@ -115,3 +115,6 @@ else echo "funkcja f(x) wynosi -1"
 fi
 }
 funkcja_z_parametrami "1"
+
+
+     POMOCE ;) http://www.fizyka.umk.pl/~karolamik/unix/skrypty/bash.pdf
